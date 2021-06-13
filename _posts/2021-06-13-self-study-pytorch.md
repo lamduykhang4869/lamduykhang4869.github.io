@@ -25,11 +25,11 @@ requires_grad=True)
 b = torch.tensor(3., required_grad=True)  
 
 ### Build a computational graph.
-_The below equation is the same as y = 2 * x + 3 at x = 4_ 
+_The below equation is the same as y = 2 * x + 3 at x = 4_  
 y = w * x + b 
 
 ### Compute gradients
-_When call backward() method on y, we obtain the gradient of y according to w, x and b._  
+_When calling backward() method on y, we obtain the gradient of y according to w, x and b._  
 y.backward()  
 
 _That mean_  
@@ -39,4 +39,7 @@ x|tensor(2.)|tensor.Size([])
 w|tensor(4.)|tensor.Size([])
 b|tensor(1.)|tensor.Size([])
 
-
+### Create multi-dimensional tensors
+_
+x = torch.randn(10, 3)
+y = torch.randn(10, 2)

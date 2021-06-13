@@ -2,9 +2,9 @@
 layout: post
 title: Self-study Pytorch
 subtitle: https://github.com/yunjey/pytorch-tutorial
-cover-img: /assets/img/pytorch_logo_2018.svg
+cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/pytorch.png
-share-img: /assets/img/pytorch_logo_2018.svg
+share-img: /assets/img/path.jpg
 tags: [pytorch]
 ---
 

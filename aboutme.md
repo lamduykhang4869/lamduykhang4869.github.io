@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: If you want to know a bit about me
 ---
 
 My name is Lam Duy Khang. I have been a student at Ho Chi Minh University of Technology (HCMUT) from 2018. The field that I want to pursue now is Computer Vision. 

@@ -33,10 +33,11 @@ _When calling backward() method on y, we obtain the gradient of y according to w
 y.backward()  
 
 _That mean_  
-VARIABLE|GRAD|SHAPE  
----|---|---  
+
+ VARIABLE | GRAD | SHAPE  
+----------|------|------    
 x|tensor(2.)|tensor.Size([])  
-w|tensor(4.)|tensor.Size([])
+w|tensor(4.)|tensor.Size([])  
 b|tensor(1.)|tensor.Size([])
 
 ### Create multi-dimensional tensors

@@ -4,13 +4,8 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+My name is Lam Duy Khang. I have been a student at Ho Chi Minh University of Technology (HCMUT) from 2018. The field that I want to pursue now is Computer Vision. 
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I used to be not aware of who I would be in the future and what I need to do in my adventure. Thanks for a friend, I seem to be woken up and I really want to find the answer to these questions above. At school, Math is my favorite subject, and that may be one of the reasons that I decide to pursue AI. Hope that my blog can help someone to realize their passion and come to the end of the road.

@@ -28,7 +28,7 @@ Text sequence: "the", "man", "loves", "his", "son".
 
 The skip-gram model is concerned with:  
 
-P("the","man","his","son"|"loves")
-= P("the"|"loves").P("man"|"loves").P("his"|"loves").P("son"|"loves").  
+P("the", "man", "his", "son" \| "loves")
+= P("the" \| "loves").P("man" \| "loves").P("his" \| "loves").P("son" \| "loves").  
 
 

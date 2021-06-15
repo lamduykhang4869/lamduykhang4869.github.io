@@ -32,3 +32,18 @@ The skip-gram model is concerned with:
 = P("the" \| "loves").P("man" \| "loves").P("his" \| "loves").P("son" \| "loves").**  
 
 ![Skip-gram](/assets/img/skip-gram.jpg)
+
+![Skip-gram-2](/assets/img/skip-gram-2.jpg)
+
+
+### Continuos Bag of Words (CBOW)
+
+The central target word is generated based on the context words before and after it in the text sequence.  
+
+The CBOW model is concerned with:  
+
+**P("loves" \| "the", "man", "his", "son").**  
+
+![CBOW](/assets/img/cbow.jpg)
+
+![CBOW-2](/assets/img/cbow-2.jpg)

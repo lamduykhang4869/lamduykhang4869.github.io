@@ -31,3 +31,4 @@ The skip-gram model is concerned with:
 **P("the", "man", "his", "son" \| "loves")  
 = P("the" \| "loves").P("man" \| "loves").P("his" \| "loves").P("son" \| "loves").**  
 
+![Skip-gram](/assets/img/skip-gram.jpg)

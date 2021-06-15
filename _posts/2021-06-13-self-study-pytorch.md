@@ -41,6 +41,12 @@ w|tensor(4.)|tensor.Size([])
 b|tensor(1.)|tensor.Size([])
 
 ### Create multi-dimensional tensors
-_
-x = torch.randn(10, 3)
-y = torch.randn(10, 2)
+_Create tensors x, y with randomly initial value of shape (10, 3) and (10, 2)._  
+x = torch.randn(10, 3)  
+y = torch.randn(10, 2)  
+
+### Build a fully connected layer.
+_Create a neural network with the input layer's units is 3 and the output layer's units is 2._  
+linear = nn.Linear(3, 2)  
+
+
